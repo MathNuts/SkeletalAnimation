@@ -21,6 +21,10 @@ This has been tested and works on my Windows and Linux machine.
 
 The model can be moved by using the WASD keys along with the spacebar to jump.
 
+## Video preview
+
+https://user-images.githubusercontent.com/60390557/164997059-28e2f81a-2872-4af1-b552-d4e89537e770.mp4
+
 ## About the 3D model
 
 The model, textures and animations are all made by [Mixamo](https://www.mixamo.com/#/).
